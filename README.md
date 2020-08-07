@@ -27,5 +27,5 @@ Thêm dòng code trên với mục đích thay đổi user agents để pass res
 Random với số user agents là 400
 
 ## Kết quả:
-433 sản phẩm với 9 
+433 sản phẩm với 9 trang <br/>
 [Out](https://github.com/LENGHIA-CN8/TanLeNghia_18020949_Nhom4_Crawler_1/blob/master/Ecommerce/spiders/Out.json)

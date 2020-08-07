@@ -1,5 +1,5 @@
 # TanLeNghia_18020949_Nhom4_Crawler_1
-# CRAWL TIKI VỀ MÁY-TÍNH-BẢNG-ĐIỆN-THOẠI
+# CRAWL TIKI VỀ DANH MỤC MÁY-TÍNH-BẢNG-ĐIỆN-THOẠI
 ## Mô tả
 Trong file tiki.py
 ![](img/Screen_1.png)
@@ -25,3 +25,7 @@ Trong file settings.py
 
 Thêm dòng code trên với mục đích thay đổi user agents để pass restriction của tiki <br/>
 Random với số user agents là 400
+
+## Kết quả:
+433 sản phẩm với 9 
+[Out](https://github.com/LENGHIA-CN8/TanLeNghia_18020949_Nhom4_Crawler_1/blob/master/Ecommerce/spiders/Out.json)
